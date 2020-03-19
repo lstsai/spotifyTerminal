@@ -1,4 +1,4 @@
-### SpotifyTerminal
+# SpotifyTerminal
 
 This program allows you to look up artists, thier albums, and songs in the terminal. It links the user's Spotify account to the program. When an artist or album is selected, the image associated with it on Spotify will open up in the browser. Spotify premium users will be able to play a selected song from the terminal. 
 
@@ -18,7 +18,7 @@ and enter your password.
 
 
 
-# To find Spotify user id:
+### To find Spotify user id:
 1. Go to your Spotify account overview
 2. Click on ... icon near the profile picture
 3. Hover over 'Share'
